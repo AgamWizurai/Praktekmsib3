@@ -1,8 +1,0 @@
-Materi TErberu Pelatihan
-HTML
-CSS
-JS
-Bootstrap
-PHP
-MySQL
-Laravel
